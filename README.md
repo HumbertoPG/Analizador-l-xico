@@ -80,3 +80,7 @@ LexToken({,'{',2,16)
 LexToken(INT_CONST,5,4,65)
 LexToken(;,';',4,66)
 ```
+
+# Comparador de codigos
+
+Revisar la documentación en: https://docs.google.com/document/d/1qQslshwdyPYu2UJb9Bc1FGjho8W4j5SKmo6SQtVQzBo/edit?tab=t.0#heading=h.w4l2uea0m447
